@@ -1,0 +1,93 @@
+@charset "UTF-8";
+/* CSS Document */
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #397BC8!important;
+	color: #FFFFFF!important
+}
+a h1 {
+	color: rgba(255,255,255,1.00);
+	text-decoration: none;
+	list-style: none;
+}
+a:hover {
+	text-decoration: none!important;
+}
+.page-footer {
+	background-color: rgba(0,0,0,0.79)!important;
+}
+.jumbotron {
+	background-color: #FFFFFF!important;
+	color: rgba(0,0,0,1.00);
+}
+.jumbotron select {
+	color: rgba(0,0,0,1.00)!important;
+}
+.line {
+	margin-bottom: 30px;
+}
+.carousel-caption h5, .carousel-caption p {
+	color: #FFFFFF;
+}
+.carousel-caption {
+	background-color: rgba(0,0,0,0.44);
+}
+.hej {
+	height: 400px;
+}
+.hej2 {
+	height: 200px;
+}
+.img {
+
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 0;
+}
+.img h1 {
+	font-family: 'Amatic SC', cursive;;
+	font-size: 4em;
+	text-align: center;
+}
+.img p {
+	margin-top: -20px;
+	padding-right: 10px;
+	text-align: center;
+}
+.slide {
+	margin-left: auto;
+	margin-right: auto;
+}
+.nav a {
+	color: #FFFFFF;
+	font-size: 1.2em;
+}
+.socials img {
+margin-left: 15px;
+	padding-bottom: 10px;
+}
+.links a {
+	color: #CFCFCF
+}
+/*rooms site*/
+.card-body {
+	color: rgba(0,0,0,1.00)
+}
+.top40 {
+	margin-top: 40px;
+}
+.bot40 {
+	margin-bottom: 40px;
+}
+
+
+
+
+.contact {
+	color: rgba(0,0,0,1.00);
+}
+.contact a {
+	color: rgba(0,0,0,1.00);
+}
